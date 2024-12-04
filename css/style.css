@@ -1,4 +1,6 @@
-/* General */
+body, html {
+    overflow-x: hidden; /* Esto oculta el desbordamiento horizontal */
+}
 body {
   font-family: 'Arial', sans-serif;
   margin: 0;
